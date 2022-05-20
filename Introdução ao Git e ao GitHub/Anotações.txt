@@ -17,5 +17,8 @@
   2. CD + destino (abre pasta solicitada)
   3. CD.. (retorna ao)
   4. git status (verificar situação atual da brach master)
-  5. 
+  5. git add . ou git add -a (atualiza todos os arquivos adicionados na máquina)
+  6. tecla Ctrl+L (limpa tela terminal)
+  7. git commit -m "atualiza as anotações do curso de Git/GitHub" (comando para atualizar repositório mais mensagem nas aspas) 
+  8. git push origin main (envia todos os commits locais para o repositório na nuvem)
 
