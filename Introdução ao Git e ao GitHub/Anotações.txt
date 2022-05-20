@@ -12,6 +12,10 @@
 
 
 
+- Comandos terminal Git Bash
+  1. Git clone + link repositório (clona o repositório do GITHUB)
+  2. CD + destino (abre pasta solicitada)
+  3. CD.. (retorna ao)
+  4. git status (verificar situação atual da brach master)
+  5. 
 
-
- 
